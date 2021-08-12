@@ -1,0 +1,129 @@
+/-- LOG INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END LOG INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 99959
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 99959
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 99959
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 9959599595
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 9959599595
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 9959599595
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 381764
+Passe de securite : 9959599595
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- LOG INFOS --/::1
+Numéro client : 88888888
+Password : 760483
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END LOG INFOS --/
+
+/-- SECURPASS INFOS --/::1
+Numéro client : 88888888
+Password : 760483
+Passe de securite : 9959599595
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END SECURPASS INFOS --/
+
+/-- LOG INFOS --/::1
+Numéro client : 86868686
+Password : 761483
+/---------------- VICTIM DETAILS ----------------/
+IP address : ::1
+Country : 
+OS : Windows 10
+Browser : Chrome
+User agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+/-- END LOG INFOS --/
+
